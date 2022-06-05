@@ -15,8 +15,8 @@
 
 -> week-3 : sorting algorithms
 1. insertion sort - O(n^2)
-2.selection sort - O(n^2)
-3.merge sort - O(n*log n)
+2. selection sort - O(n^2)
+3. merge sort - O(n*log n)
       
 -> week-4 : sorting algorithms
 1. merge sort - O(n*log n)
