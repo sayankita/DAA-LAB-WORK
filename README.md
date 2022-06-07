@@ -55,3 +55,5 @@
 1. multiply_matrices - to find min no. of operations to multiply list of matrices
 2. coin - to find no. of ways to add coins to make a sum (unbounded knapsack) .
 3. equal_sum_subset - to partition a set of elements into 2 subsets of equal sum .
+
+
